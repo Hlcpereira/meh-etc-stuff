@@ -8,3 +8,8 @@ Mi 5 series devices:
 - Official AospExtended 8.x for Natrium and Capricorn (Discontinued)
 - Official PixelExperience 8.x for Natrium and Capricorn
 - Official ToxycOS 8.x for Gemini, Natrium and Capricorn (Discontinued)
+- Official PixelExperience 9.x for Gemini, Natrium and Capricorn
+
+Mi 8:
+
+- Official PixelExperience 9.x for Dipper (soon)
