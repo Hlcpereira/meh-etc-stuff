@@ -1,0 +1,18 @@
+PixelExperience:
+
+- Merged December Security Patch
+- Removed the 0.8x speed animations (They're back to the 1.0x speed)
+- Included NFC QS Title
+- Fixed problems related to freqs of the SD820/821 (aka msm8996/8996pro)
+
+Device Specific:
+
+- Fixed AOD
+- Included missing CutOut Overlay
+- Included APT-X support
+- Included missing LiveWallpapers (I just forgot to clone the repo with them (don't ask me why it isn't been tracked as default))
+- Fixed IR FaceUnlock
+- Switched from LOS Kernel to a modified one
+- Included GCam (MGC_6.1.021_MI8_V1b.apk by B-S-G)
+
+Minimum Firmware: None as for now
