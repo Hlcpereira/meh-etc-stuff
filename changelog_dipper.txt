@@ -7,6 +7,7 @@ PixelExperience:
 
 Device Specific:
 
+- First official release for dipper
 - Fixed AOD
 - Included missing CutOut Overlay
 - Included APT-X support
