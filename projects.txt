@@ -1,16 +1,3 @@
-Moto Maxx:
-
-- Official AospExtended 7.x for Quark (Discontinued)
-- Unofficial ViperOS 7.x for Quark (Discontinued)
-
-Mi 5 series devices:
-
-- Official AospExtended 8.x for Natrium and Capricorn (Discontinued)
-- Official PixelExperience 8.x for Natrium and Capricorn (Discontinued)
-- Official ToxycOS 8.x for Gemini, Natrium and Capricorn (Discontinued)
-- Official PixelExperience 9.x for Gemini, Natrium and Capricorn (Discontinued)
-- KernelX Project for Gemini, Capricorn, Natrium, Lithium and Scorpio
-
 OnePlus 5:
 
 - Official PixelExperience 9.x for Cheeseburger
