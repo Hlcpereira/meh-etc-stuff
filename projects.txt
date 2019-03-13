@@ -1,6 +1,6 @@
-OnePlus 5:
+OnePlus 5/5T:
 
-- Official PixelExperience 9.x for Cheeseburger
+- Official PixelExperience 9.x for Cheeseburger and Dumpling
 
 Mi 8:
 
