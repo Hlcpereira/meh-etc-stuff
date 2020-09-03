@@ -1,0 +1,13 @@
+# user 10 QPH30.29-Q3-28-13 95679 release-keys
+- manufacturer: 
+- platform: sm6150
+- codename: parker
+- flavor: user
+- release: 10
+- id: QPH30.29-Q3-28-13
+- incremental: 95679
+- tags: release-keys
+- fingerprint: motorola/parker_retail/parker:10/QPH30.29-Q3-28-13/95679:user/release-keys
+- brand: motorola
+- branch: user-10-QPH30.29-Q3-28-13-95679-release-keys
+- repo: motorola_parker_dump
