@@ -1,0 +1,177 @@
+{
+  "config":{
+    "hw_platform": ["MTP", "Dragon", "Surf", "IDP"],
+    "soc_id": ["291", "246", "305", "355"]
+  },
+  "tmd2750_platform":{
+    "owner": "sns_tmd2750",
+    ".config":{
+      "owner": "sns_tmd2750",
+      "bus_type":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "bus_instance":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "slave_config":{ "type": "int", "ver": "0",
+        "data": "73"
+      },
+      "min_bus_speed_khz":{ "type": "int", "ver": "0",
+        "data": "400"
+      },
+      "max_bus_speed_khz":{ "type": "int", "ver": "0",
+        "data": "400"
+      },
+      "reg_addr_type":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "dri_irq_num":{ "type": "int", "ver": "0",
+        "data": "96"
+      },
+      "irq_pull_type":{ "type": "int", "ver": "0",
+        "data": "2"
+      },
+      "irq_is_chip_pin":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "irq_drive_strength":{ "type": "int", "ver": "0",
+        "data": "0"
+      },
+      "irq_trigger_type":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "num_rail":{ "type": "int", "ver": "0",
+        "data": "2"
+      },
+      "rail_on_state":{ "type": "int", "ver": "0",
+        "data": "2"
+      },
+      "vdd_rail":{ "type": "str", "ver": "0",
+        "data": "/pmic/client/sensor_vdd"
+      },
+      "vddio_rail":{ "type": "str", "ver": "0",
+        "data": "/pmic/client/sensor_vddio"
+      },
+      "rigid_body_type":{ "type": "int", "ver": "0",
+      "data": "0"
+      }
+    },
+    ".prox":{
+      "owner": "sns_tmd2750",
+      ".fac_cal":{
+        "owner": "sns_tmd2750",
+        "near_threshold":{ "type": "flt", "ver": "0",
+          "data": "178.0"
+        },
+        "far_threshold":{ "type": "flt", "ver": "0",
+          "data": "105.0"
+        }
+      }
+    },
+    ".coefficient":{
+      "owner": "sns_tmd2750",
+      "0":{ "type": "flt", "ver": "0",
+        "data": "940.0"
+      },
+      "1":{ "type": "flt", "ver": "0",
+        "data": "0.158"
+      },
+      "2":{ "type": "flt", "ver": "0",
+        "data": "-0.158"
+      },
+      "3":{ "type": "flt", "ver": "0",
+        "data": "1.0"
+      },
+      "4":{ "type": "flt", "ver": "0",
+        "data": "-0.947"
+      },
+      "5":{ "type": "flt", "ver": "0",
+        "data": "4868.0"
+      },
+      "6":{ "type": "flt", "ver": "0",
+        "data": "1711.0"
+      },
+      "7":{ "type": "flt", "ver": "0",
+        "data": "4868.0"
+      },
+      "8":{ "type": "flt", "ver": "0",
+        "data": "1711.0"
+      },
+      "9":{ "type": "flt", "ver": "0",
+        "data": "0.1"
+      },
+      "10":{ "type": "flt", "ver": "0",
+        "data": "600.0"
+      },
+      "11":{ "type": "flt", "ver": "0",
+        "data": "3500.0"
+      }
+    },
+    ".als_config":{
+      "owner": "sns_tmd2750",
+      "a_time":{"type": "flt", "ver": "1",
+        "data": "50"
+      },
+      "a_gain":{"type": "flt", "ver": "1",
+        "data": "16"
+      },
+      "irThreshold":{"type": "flt", "ver": "1",
+        "data": "5000"
+      },
+      "luxThreshold":{"type": "flt", "ver": "1",
+        "data": "15000"
+      }
+    },
+    ".def_config":{
+      "owner": "sns_tmd2750",
+      "ptime":{"type": "flt", "ver": "1",
+        "data": "3000"
+      },
+      "plen_16x":{"type": "flt", "ver": "1",
+        "data": "0"
+      },
+      "ppulse_len":{"type": "flt", "ver": "1",
+        "data": "32"
+      },
+      "ppulse":{"type": "flt", "ver": "1",
+        "data": "64"
+      },
+      "pgain":{"type": "flt", "ver": "1",
+        "data": "2"
+      },
+      "pldrive":{"type": "flt", "ver": "1",
+        "data": "19"
+      },
+      "pBinSearch":{"type": "flt", "ver": "1",
+        "data": "4"
+      }
+    }
+  },
+  "proximity":{
+    "owner": "sns_tmd2750",
+    ".coefficient":{
+      "owner": "sns_tmd2750",
+      "near_threshold":{ "type": "flt", "ver": "0",
+        "data": "88.0"
+      },
+      "far_threshold":{ "type": "flt", "ver": "0",
+        "data": "61.0"
+      },
+      "factor":{ "type": "flt", "ver": "0",
+        "data": "1.0"
+      },
+      "delta2":{ "type": "flt", "ver": "0",
+        "data": "113.0"
+      },
+      "delta3":{ "type": "flt", "ver": "0",
+        "data": "88.0"
+      },
+      "rawdata0":{ "type": "flt", "ver": "0",
+        "data": "6.0"
+      },
+      "rawdata1":{ "type": "flt", "ver": "0",
+        "data": "50.0"
+      }
+    }
+  }
+}

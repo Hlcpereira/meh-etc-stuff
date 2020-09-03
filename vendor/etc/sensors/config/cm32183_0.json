@@ -1,0 +1,28 @@
+{
+  "config":
+  {
+    "hw_platform": ["IDP"],
+    "soc_id": ["355"]
+  },
+  "cm32183_0":{
+    "owner": "sns_cm32183",
+    ".ambient_light":{
+      "owner": "sns_cm32183",
+      ".config":{
+        "owner": "sns_cm32183",
+        "is_dri":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "hw_id":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "res_idx":{ "type": "int", "ver": "0",
+          "data": "0"
+        },
+        "sync_stream":{ "type": "int", "ver": "0",
+          "data": "0"
+        }
+      }
+    }
+  }
+}

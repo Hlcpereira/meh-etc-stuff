@@ -1,0 +1,13 @@
+# def_retail-user 10 QPFS30.103-43-7 1a0ca release-keys
+- manufacturer: 
+- platform: sm6150
+- codename: def
+- flavor: def_retail-user
+- release: 10
+- id: QPFS30.103-43-7
+- incremental: 1a0ca
+- tags: release-keys
+- fingerprint: motorola/def_retail/def:10/QPFS30.103-43-7/1a0ca:user/release-keys
+- brand: motorola
+- branch: def_retail-user-10-QPFS30.103-43-7-1a0ca-release-keys
+- repo: motorola_def_dump
