@@ -1,0 +1,13 @@
+# user 10 QPFS30.130-15-11-5 dfd59 release-keys
+- manufacturer: 
+- platform: sm6150
+- codename: foles
+- flavor: user
+- release: 10
+- id: QPFS30.130-15-11-5
+- incremental: dfd59
+- tags: release-keys
+- fingerprint: motorola/foles_retail/foles:10/QPFS30.130-15-11-5/dfd59:user/release-keys
+- brand: motorola
+- branch: user-10-QPFS30.130-15-11-5-dfd59-release-keys
+- repo: motorola_foles_dump
