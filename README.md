@@ -1,0 +1,13 @@
+# liber_retail-user 10 QPIS30.73-23-1-3 992d4d6 release-keys
+- manufacturer: 
+- platform: sm6150
+- codename: liber
+- flavor: liber_retail-user
+- release: 10
+- id: QPIS30.73-23-1-3
+- incremental: 992d4d6
+- tags: release-keys
+- fingerprint: motorola/liber_retail/liber:10/QPIS30.73-23-1-3/992d4d6:user/release-keys
+- brand: motorola
+- branch: liber_retail-user-10-QPIS30.73-23-1-3-992d4d6-release-keys
+- repo: motorola_liber_dump
