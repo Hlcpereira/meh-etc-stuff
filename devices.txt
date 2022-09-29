@@ -4,3 +4,4 @@ Xiaomi Mi 5s Plus - Codename: Natrium (Stolen)
 OnePlus 5 - Codename: Cheeseburger
 Xiaomi Mi 8 - Codename: Dipper
 Xiaomi Mi Note 10 - Codename: Tucana
+Xiaomi Mi 10T - Codename: Apollo
