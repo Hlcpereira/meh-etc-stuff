@@ -1,7 +1,8 @@
-Samsung Galaxy S2 Lite/S Advanced(i9070) - Codename: Janice
-Motorola Moto Maxx/Droid Turbo(XT1225) - Codename: Quark (RIP)
-Xiaomi Mi 5s Plus - Codename: Natrium (Stolen)
-OnePlus 5 - Codename: Cheeseburger
-Xiaomi Mi 8 - Codename: Dipper
-Xiaomi Mi Note 10 - Codename: Tucana
-Xiaomi Mi 10T - Codename: Apollo
+Samsung Galaxy S2 Lite/S Advanced(i9070) - Codename: Janice (2014-2016)
+Motorola Moto Maxx/Droid Turbo(XT1225) - Codename: Quark (2016-2017)(RIP)
+Xiaomi Mi 5s Plus - Codename: Natrium (2018-2018)
+OnePlus 5 - Codename: Cheeseburger (2019-2019)
+Xiaomi Mi 8 - Codename: Dipper (2019-2021)
+Xiaomi Mi 9 - Codename: Cepheus (2020-2020)
+Xiaomi Mi Note 10 - Codename: Tucana (2020-2022)
+Xiaomi Mi 10T - Codename: Apollo (2022-)
